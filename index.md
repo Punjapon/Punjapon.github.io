@@ -3,6 +3,7 @@
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="styles.css">
   <div class="container"><br />
+    <div class="media-body mb-5 text-white">
     <h2>935 304 Web Application</h2>
     <p>This is Web Application course</p><br />
   </div>
