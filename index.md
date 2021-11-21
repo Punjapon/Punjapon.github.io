@@ -28,7 +28,7 @@
       <div class="card mb-3">
   <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-    <h5 class="card-title">Todo App</h5>
+    <h5 class="card-title">TODO application on JS with DOM</h5>
     <p class="card-text">.....</p>
     <a href="todo.html" class="btn btn-primary">Go watch</a>
         </div>
