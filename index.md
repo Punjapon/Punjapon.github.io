@@ -85,7 +85,7 @@
       <div class="card mb-3">
   <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-    <h5 class="card-title">Node JS API</h5>
+    <h5 class="card-title">React and Node API งานคู่</h5>
     <p class="card-text">.....</p>
     <a href="#" class="btn btn-primary">Go watch</a>
         </div>
@@ -96,7 +96,7 @@
       <div class="card mb-3">
   <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-    <h5 class="card-title">Node JS API</h5>
+    <h5 class="card-title">Laravel web application</h5>
     <p class="card-text">.....</p>
     <a href="#" class="btn btn-primary">Go watch</a>
         </div>
