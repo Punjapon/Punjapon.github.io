@@ -98,7 +98,7 @@
         <div class="card-body">
     <h5 class="card-title">Laravel web application</h5>
     <p class="card-text">.....</p>
-    <a href="#" class="btn btn-primary">Go watch</a>
+    <a href="https://github.com/Punjapon/FinalProject" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
